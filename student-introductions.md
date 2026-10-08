@@ -16,12 +16,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
+### odeth nunez
+- **GitHub Username:** @odethn
+- **Location:** spain
+- **Background:** no
+- **Learning Goals:** becouse yes
+- **Fun Fact:** the cats can recognize your voice and so they ignore you
+- **Date Added:** 10/08/26
 
 
